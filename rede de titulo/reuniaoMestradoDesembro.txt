@@ -1,0 +1,6 @@
+========================Roteiro=====================
+
+1. Processo Metodológico - Colocar a figura de fluxo na metodologia (gliffy - http://www.gliffy.com/go/publish/6525135);
+2. Clusterização (modularização?) na evolução das redes de palavras-chave dos titulos, onde a cor representaria a clusterizacao e o tamanho o grau. Com isso,
+poderemos criar tabelas mostrando as palavras que estão mais relacionados com a palavra de maior grau naquela "comunidade" (agrupamento);
+3. Construção de gráficos com análise de tendências.
